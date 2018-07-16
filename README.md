@@ -4,6 +4,7 @@ docker在centos7.5下离线安装
 #/bin/bash
 
 #离线安装docker
+
 cp -r docker.zip /home
 cd /home
 unzip docker.zip
